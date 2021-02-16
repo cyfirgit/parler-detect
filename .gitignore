@@ -1,3 +1,7 @@
+# dataset
+data/
+parler_posts_json/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
