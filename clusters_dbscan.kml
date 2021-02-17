@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="921">
+        <Style id="928">
+            <LineStyle id="930">
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="929">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="937">
+            <LineStyle id="939">
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="938">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="946">
+            <LineStyle id="948">
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="947">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="955">
+            <LineStyle id="957">
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="956">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="964">
+            <LineStyle id="966">
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="965">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="973">
+            <LineStyle id="975">
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="974">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="982">
+            <LineStyle id="984">
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="983">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="991">
+            <LineStyle id="993">
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="992">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="1000">
+            <LineStyle id="1002">
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="1001">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="1009">
+            <LineStyle id="1011">
+                <colorMode>normal</colorMode>
+                <width>3</width>
+            </LineStyle>
+            <PolyStyle id="1010">
+                <colorMode>normal</colorMode>
+                <fill>0</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <name>clusters_dbscan</name>
+        <Placemark id="923">
+            <name>Cluster0</name>
+            <styleUrl>#928</styleUrl>
+            <Polygon id="922">
+                <outerBoundaryIs>
+                    <LinearRing id="926">
+                        <coordinates>-77.00895,38.88975,0.0 -77.00845,38.88975,0.0 -77.00845,38.88995,0.0 -77.00895,38.88995,0.0 -77.00895,38.88975,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="932">
+            <name>Cluster1</name>
+            <styleUrl>#937</styleUrl>
+            <Polygon id="931">
+                <outerBoundaryIs>
+                    <LinearRing id="935">
+                        <coordinates>-77.01095000000001,38.89015,0.0 -77.01025,38.89015,0.0 -77.01025,38.89025,0.0 -77.01095000000001,38.89025,0.0 -77.01095000000001,38.89015,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="941">
+            <name>Cluster2</name>
+            <styleUrl>#946</styleUrl>
+            <Polygon id="940">
+                <outerBoundaryIs>
+                    <LinearRing id="944">
+                        <coordinates>-77.01035,38.890049999999995,0.0 -77.01025,38.890049999999995,0.0 -77.01025,38.89015,0.0 -77.01035,38.89015,0.0 -77.01035,38.890049999999995,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="950">
+            <name>Cluster3</name>
+            <styleUrl>#955</styleUrl>
+            <Polygon id="949">
+                <outerBoundaryIs>
+                    <LinearRing id="953">
+                        <coordinates>-77.01015,38.88975,0.0 -77.01004999999999,38.88975,0.0 -77.01004999999999,38.88985,0.0 -77.01015,38.88985,0.0 -77.01015,38.88975,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="959">
+            <name>Cluster4</name>
+            <styleUrl>#964</styleUrl>
+            <Polygon id="958">
+                <outerBoundaryIs>
+                    <LinearRing id="962">
+                        <coordinates>-77.01055,38.88955,0.0 -77.01035,38.88955,0.0 -77.01035,38.89005,0.0 -77.01055,38.89005,0.0 -77.01055,38.88955,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="968">
+            <name>Cluster5</name>
+            <styleUrl>#973</styleUrl>
+            <Polygon id="967">
+                <outerBoundaryIs>
+                    <LinearRing id="971">
+                        <coordinates>-77.01065,38.88975,0.0 -77.01015,38.88975,0.0 -77.01015,38.89015,0.0 -77.01065,38.89015,0.0 -77.01065,38.88975,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="977">
+            <name>Cluster6</name>
+            <styleUrl>#982</styleUrl>
+            <Polygon id="976">
+                <outerBoundaryIs>
+                    <LinearRing id="980">
+                        <coordinates>-77.01055,38.889849999999996,0.0 -77.00995,38.889849999999996,0.0 -77.00995,38.88995,0.0 -77.01055,38.88995,0.0 -77.01055,38.889849999999996,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="986">
+            <name>Cluster7</name>
+            <styleUrl>#991</styleUrl>
+            <Polygon id="985">
+                <outerBoundaryIs>
+                    <LinearRing id="989">
+                        <coordinates>-77.01275,38.890249999999995,0.0 -77.01075,38.890249999999995,0.0 -77.01075,38.89105,0.0 -77.01275,38.89105,0.0 -77.01275,38.890249999999995,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="995">
+            <name>Cluster8</name>
+            <styleUrl>#1000</styleUrl>
+            <Polygon id="994">
+                <outerBoundaryIs>
+                    <LinearRing id="998">
+                        <coordinates>-77.01065,38.88945,0.0 -77.01035,38.88945,0.0 -77.01035,38.88975,0.0 -77.01065,38.88975,0.0 -77.01065,38.88945,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="1004">
+            <name>Cluster9</name>
+            <styleUrl>#1009</styleUrl>
+            <Polygon id="1003">
+                <outerBoundaryIs>
+                    <LinearRing id="1007">
+                        <coordinates>-77.01095000000001,38.88975,0.0 -77.01055,38.88975,0.0 -77.01055,38.88995,0.0 -77.01095000000001,38.88995,0.0 -77.01095000000001,38.88975,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>
