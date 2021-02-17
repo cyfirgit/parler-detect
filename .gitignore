@@ -1,6 +1,7 @@
 # dataset
 data/
 parler_posts_json/
+explore/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
